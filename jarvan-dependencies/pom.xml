@@ -30,7 +30,7 @@
         <com.google.zxing.version>3.2.1</com.google.zxing.version>
 
         <tomcat.maven.version>2.2</tomcat.maven.version>
-        <org.apache.poi.version>3.9</org.apache.poi.version>
+        <org.apache.poi.version>4.1.2</org.apache.poi.version>
         <org.freemarker.version>2.3.23</org.freemarker.version>
         <!--commons-lang3,log,httpclient-->
         <commons-lang3.version>3.4</commons-lang3.version>
